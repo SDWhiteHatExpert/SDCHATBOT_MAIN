@@ -33,6 +33,7 @@ const aiChatDiv = (data) => {
 
 const userMessage = document.getElementById("message");
 const chatContainer = document.getElementById("chat-container");
+const chatServer =document.getElementaryByld("chatServer");
 const chatForm = document.getElementById("chat-form");
 
 const handleSubmit = async (event) => {
