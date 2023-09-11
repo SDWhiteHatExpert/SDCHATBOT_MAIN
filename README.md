@@ -44,4 +44,4 @@ Documentation:
 Provide comprehensive documentation, including installation instructions, usage guidelines, and troubleshooting steps.
 These requirements should serve as a foundation for developing, maintaining, and enhancing your server-based chatbot. Depending on your specific use case and goals, you may need to further refine and expand upon these requirements.
 
-ENJOY THE PROJECT AND DONT ("FORGET TO FOLOW")
+ENJOY THE PROJECT AND DONT ("FORGET TO FOLLOW")
